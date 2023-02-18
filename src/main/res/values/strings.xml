@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="btnAC">AC</string>
+    <string name="btnDEL">DEL</string>
+    <string name="btnChia">/</string>
+    <string name="btnNhan">*</string>
+    <string name="btnTru">-</string>
+    <string name="btnCong">+</string>
+    <string name="btnBang">=</string>
+    <string name="btnCham">.</string>
+    <string name="nb0">0</string>
+    <string name="nb1">1</string>
+    <string name="nb2">2</string>
+    <string name="nb3">3</string>
+    <string name="nb4">4</string>
+    <string name="nb5">5</string>
+    <string name="nb6">6</string>
+    <string name="nb7">7</string>
+    <string name="nb8">8</string>
+    <string name="nb9">9</string>
+
+
+</resources>
